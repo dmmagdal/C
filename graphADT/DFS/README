@@ -1,0 +1,10 @@
+Diego Magdaleno
+dmmagdal pa4
+
+Graph.c 		Graph ADT made through adjacency list
+Graph.h			Header file for Graph.c
+List.c			List ADT
+List.h			Header file for List.c
+GraphTest.c		Client to test Graph.c
+FindPath.c		Client to read file, create new graph, find shortest paths, and print out to 			    file
+Makefile		Makefile to compile files into FindPath executable.
